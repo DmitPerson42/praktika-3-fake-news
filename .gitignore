@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+best_fake_news_model/
+*.pt
+*.pth
+.DS_Store
+Thumbs.db
